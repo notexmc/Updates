@@ -8,14 +8,8 @@ hero:
   tagline: Select the changelog version you want to view
   actions:
     - theme: brand
-      text: B2401 (Latest)
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Bedrock Release 1.0.0 (B-2401a)
+      link: /b-2401a
 
 features:
   - title: Feature A
