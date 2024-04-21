@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Notex Updates",
   description: "A VitePress Site",
-  base: '/updates/'
+  base: '/updates/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
