@@ -16,7 +16,7 @@ export default defineConfig({
       {
         text: 'Changelogs',
         items: [
-          { text: 'Bedrock Release 1.0.0', link: '/b-2401a' },
+          { text: 'Bedrock 1.0.0', link: '/b-2401a' },
         ]
       }
     ],
