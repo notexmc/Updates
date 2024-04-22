@@ -8,8 +8,11 @@ hero:
   tagline: Select the changelog version you want to view
   actions:
     - theme: brand
-      text: Bedrock Release 1.0.0 (B-2401a)
-      link: /b-2401a
+      text: Bedrock Release 1.0.0 (Latest)
+      link: bedrock-release-1-0-0
+    - theme: alt
+      text: Website 2432a
+      link: error-501?=msg=NotAvailable
 
 features:
   - title: Feature A
