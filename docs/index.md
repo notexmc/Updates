@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: Bedrock Release 1.0.0 (Latest)
-      link: bedrock-release-1-0-0
+      link: /bedrock-release-1-0-0
     - theme: alt
       text: Website 2432a
-      link: error-501?=msg=NotAvailable
+      link: /website-2432a
 
 features:
   - title: Feature A
