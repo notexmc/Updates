@@ -24,3 +24,7 @@ This update does not support android 9. If you see an error message on the websi
  - Transistors capacity upgraded to 8 core cpu.
 - Adaptive Optimization conditional tags have been changed to condition states.
 - Local Script API is now replaced with our custom NTS API. (More Info about it soon).
+- Some additional changes were made in the infrastructure
+ - Upgraded infrastructure modules to 5.7.0 (Bug Fix Update)
+ - Added new scripting engine.
+- Reworked store (The store is currnetly private.)
